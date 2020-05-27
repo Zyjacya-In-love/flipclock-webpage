@@ -1,6 +1,6 @@
 # Flip Clock Webpage
 
-**link:** [clock.nicejob.xyz](clock.nicejob.xyz)
+**link:** [clock.nicejob.xyz](http://clock.nicejob.xyz/)
 
 ## Introduction
 
