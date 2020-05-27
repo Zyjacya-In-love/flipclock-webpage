@@ -29,6 +29,7 @@ body
 }
 h1 {
     /*font-weight: bold;*/
+    font-family: sans-serif, Times, TimesNR, 'New Century Schoolbook', Georgia, 'New York', serif;
     color: #ccc;
 	text-align:center;
 	zoom: 4;
