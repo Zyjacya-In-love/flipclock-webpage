@@ -1,0 +1,46 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	display: flex;
+	text-align:center;
+	justify-content: center;
+	align-items: center;
+	/*min-height: 100vh;*/
+	background: #222;
+}
+.clock
+{
+	width: auto;
+	zoom: 4;
+}
+.flip-clock-dot
+{
+	background: #ccc;
+	/*background: #ffffff;*/
+}
+.flip-clock-meridium a
+{
+    color: #ccc;
+    /*color: #ffffff;*/
+}
+h1 {
+    /*font-weight: bold;*/
+    color: #ccc;
+	text-align:center;
+	zoom: 4;
+}
+#box
+{
+	display: table;
+}
+#content 
+{
+	/*color: #fff;*/
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
