@@ -6,7 +6,7 @@
 
 A webpage that include a beautiful flip clock and year-month-day + week.
 
-It's just a good clock when you have two screen and the small one display the webpage (with F11).
+It's just a good clock when you have two screen and the small one display the webpage (with full-screen).
 
 <p>
     <img alt="landscape" src="./__READMEimages__/landscape.png" width="400">
